@@ -1,3 +1,4 @@
+![Build](https://github.com/SebastienAuberger/usefullCV/actions/workflows/react-cv.yml/badge.svg)
 # CV en ligne créé avec React
 
 Ce projet à est une app React utilisé afin de publier mon CV en ligne
