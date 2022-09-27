@@ -1,0 +1,31 @@
+{
+    "name" : "Sébastien Auberger",
+    "category" : [
+        {
+            "name" : "Experiences",
+            "link" : "/experiences",
+            "componentName" : "Experiences",
+            "content" : []
+        },
+        {
+            "name" : "Etudes",
+            "link" : "/etudes",
+            "content" : []
+        },
+        {
+            "name" : "Compétences",
+            "link" : "/competences",
+            "content" : []
+        },
+        {
+            "name" : "Autres",
+            "link" : "/autres",
+            "content" : []
+        },
+        {
+            "name" : "Information personelles",
+            "link" : "/about",
+            "content" : []
+        }
+    ]
+}

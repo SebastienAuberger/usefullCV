@@ -1,0 +1,33 @@
+#nav {
+    display: inline-block;
+    width: 25%;
+    background-color: rgba(30, 101, 182, 0.781);
+    margin-top: 20px;
+    color: white;
+}
+
+#nav ul li a{
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    transition: 0.5s;
+}
+
+#nav ul li a:hover{
+    font-weight: bold;
+}
+
+#nav ul li a:visited{
+    color: white;
+}
+
+#nav ul{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#nav ul li{
+    text-align: center;
+    list-style-type: none;
+    margin-top: 20px;
+}

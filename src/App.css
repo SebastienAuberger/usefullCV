@@ -1,0 +1,51 @@
+* {
+  font-family: 'Roboto';
+  margin: 0;
+  padding: 0;
+}
+
+@keyframes slideFromRight{
+  0% { 
+      transform: translateX(500px);
+      opacity: 0;
+  }
+  100% {
+      transform: translateX(0px);
+      opacity: 1;
+  }
+}
+
+.smallShadow{
+  box-shadow: 1px 1px 12px #555;
+  transition: 0.2s;
+}
+
+.smallShadow:hover{
+  box-shadow: 4px 4px 8px #555;
+}
+
+body{
+  background-color: #d8d8d8;
+}
+
+.cv{
+  width: 60%;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.main{
+  display: inline-block;
+  width: calc(73% - 20px);
+  background-color: rgba(30, 101, 182, 0.781);
+  vertical-align: top;
+  margin-top: 20px;
+  margin-left: 2%;
+  color: white;
+  padding: 10px;
+}
+
+.slideRight{
+  animation: slideFromRight 1.5s cubic-bezier(.33,.54,.1,.79) 1.5s 1;
+}
+
