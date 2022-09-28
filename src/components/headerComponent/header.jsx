@@ -15,7 +15,7 @@ class Header extends React.Component {
             <div id="header" className="smallShadow headerSlide">
                 <div id="socials">
                 <ul id="social_Before">
-                    <li><a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faFacebookF} inverse /></a></li>
+                    <li><a href="https://www.facebook.com/saubg7" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faFacebookF} inverse /></a></li>
                     <li><a href="https://www.linkedin.com/in/seb-abg/" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faLinkedinIn} inverse /></a></li>
                 </ul>
                 <h1 id="header_name">{cv.name.toUpperCase()}</h1>
