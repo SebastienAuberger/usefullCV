@@ -15,13 +15,13 @@ class Header extends React.Component {
             <div id="header" className="smallShadow headerSlide">
                 <div id="socials">
                 <ul id="social_Before">
-                    <li><FontAwesomeIcon icon={faFacebookF} inverse /></li>
-                    <li><FontAwesomeIcon icon={faLinkedinIn} inverse /></li>
+                    <li><a href="" target="_blank"><FontAwesomeIcon icon={faFacebookF} inverse /></a></li>
+                    <li><a href="https://www.linkedin.com/in/seb-abg/" target="_blank"><FontAwesomeIcon icon={faLinkedinIn} inverse /></a></li>
                 </ul>
                 <h1 id="header_name">{cv.name.toUpperCase()}</h1>
                 <ul id="social_After">
-                    <li><FontAwesomeIcon icon={faInstagram} inverse /></li>
-                    <li><FontAwesomeIcon icon={faTwitter} inverse /></li>
+                    <li><a href="https://www.instagram.com/s.auberger/" target="_blank"><FontAwesomeIcon icon={faInstagram} inverse /></a></li>
+                    <li><a href="https://twitter.com/fergvae" target="_blank"><FontAwesomeIcon icon={faTwitter} inverse /></a></li>
                 </ul>
                 </div>
             </div>      
