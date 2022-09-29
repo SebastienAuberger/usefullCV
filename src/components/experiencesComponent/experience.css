@@ -1,0 +1,19 @@
+.experienceCards{
+    border: 1px solid pink;
+    width: 100%;
+    margin-top: 10px;;
+}
+
+.experienceCard{
+    background-color: white;
+    width: 80%;
+    color: black;
+    margin: auto;
+}
+
+.experienceCard .cardTitle{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400; 
+    transform: translateY(10px);
+}
