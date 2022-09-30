@@ -45,6 +45,12 @@ body{
   padding: 10px;
 }
 
+.main h1:first-child{
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 20px;
+}
+
 .slideRight{
   animation: slideFromRight 1.5s cubic-bezier(.33,.54,.1,.79) 1.5s 1;
 }

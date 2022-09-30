@@ -1,0 +1,56 @@
+.experienceCards{
+    width: 100%;
+    margin-top: 10px;;
+}
+
+.experienceCard{
+    background-color: white;
+    width: 80%;
+    color: black;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    overflow: hidden;
+    margin-bottom: 20px;
+    transition: 0.3s;
+}
+
+.experienceCard .cardTitle{
+    text-align: center;
+    margin-top: -20px;
+    font-size: 20px;
+    font-weight: bold; 
+    text-transform: uppercase;
+}
+
+.experienceCard .companyName{
+    text-align: center;
+    font-size: 20px;
+    font-weight: lighter;
+    margin-top: 10px;
+    text-transform: uppercase;
+}
+
+.experienceCard .cityName{
+    text-align: center;
+    font-size: 20px;
+    font-weight: lighter;
+    margin-top: 10px;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+.experienceCard .dates{
+    display:inline-block;
+    position: relative;
+    color: rgb(9, 146, 55);
+    top: 50px;
+    left: 30px;
+    transform: rotate(-10deg);
+}
+
+.experienceCard:hover{
+    background-color: rgb(164, 248, 171);
+    color: rgb(7, 99, 19);
+    cursor: pointer;
+}
