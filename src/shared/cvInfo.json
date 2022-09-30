@@ -37,7 +37,28 @@
         {
             "name" : "Etudes",
             "link" : "/etudes",
-            "content" : []
+            "content" : {
+                "cards" : [
+                    {
+                        "degree" : "Licence Informatique",
+                        "date" : "Aout 2021",
+                        "school" : "CNAM",
+                        "city" : "Vierzon"
+                    },
+                    {
+                        "degree" : "BTS SN IR",
+                        "date" : "Aout 2020",
+                        "school" : "Lycée Henri Brisson",
+                        "city" : "Vierzon"
+                    },
+                    {
+                        "degree" : "Baccalauréat STI2D SIN",
+                        "date" : "Aout 2016",
+                        "school" : "Lycée Pierre Emile Martin",
+                        "city" : "Bourges"
+                    }
+                ]
+            }
         },
         {
             "name" : "Compétences",

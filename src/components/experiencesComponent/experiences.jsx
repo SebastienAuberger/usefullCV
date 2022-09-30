@@ -10,7 +10,7 @@ export default class Experiences extends React.Component{
                 <h1>Experiences</h1>
                 <div className="experienceCards">
                     {
-                        cv.category[0].content.cards.map((el,i) => {
+                        cv.category[0].content.cards.map((el) => {
                                return(<ExperiencesCard title={el.title} company={el.companyName} location={el.location} date={el.date} />)
                         })
                     }
