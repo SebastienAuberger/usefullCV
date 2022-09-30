@@ -5,7 +5,34 @@
             "name" : "Experiences",
             "link" : "/experiences",
             "componentName" : "Experiences",
-            "content" : []
+            "content" : {
+                "cards" : [
+                    {
+                    "title" : "DEVELOPPEUR JUNIOR FULLSTACK",
+                    "companyName" : "MERIM SERVICE",
+                    "location" : "CHATEAUROUX",
+                    "date" : "Feb 2022 - Now"
+                },
+                {
+                    "title" : "Technicien support N2",
+                    "companyName" : "MERIM SERVICE",
+                    "location" : "CHATEAUROUX",
+                    "date" : "Oct 2021 - Feb 2022"
+                },
+                {
+                    "title" : "Développeur R&D",
+                    "companyName" : "Signall By Apia",
+                    "location" : "Vierzon",
+                    "date" : "Oct 2020 - Jul 2021"
+                },
+                {
+                    "title" : "technicien Informatique",
+                    "companyName" : "SOFOC",
+                    "location" : "Saint-Amand Montrond",
+                    "date" : "Mar 2019 - Jul 2019"
+                }
+            ]
+            }
         },
         {
             "name" : "Etudes",
