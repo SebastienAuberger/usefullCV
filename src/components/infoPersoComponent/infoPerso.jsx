@@ -6,6 +6,7 @@ export default class InfoPerso extends React.Component{
         return(
             <div className="main infoPerso smallShadow">
                 <h1>Informations personelles</h1>
+                <p>WIP</p>
             </div>
         )
     }

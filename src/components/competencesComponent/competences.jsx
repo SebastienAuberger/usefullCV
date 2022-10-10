@@ -6,6 +6,7 @@ export default class Competences extends React.Component{
         return(
             <div className="main competences smallShadow">
                 <h1>Compétences</h1>
+                <p>WIP</p>
             </div>
         )
     }
