@@ -9,3 +9,7 @@ Ce projet à est une app React utilisé afin de publier mon CV en ligne
 Afin de modifier le CV il suffit de modifier le fichier qui se trouve dans
 
 ### `src/shared/cvInfo.json`
+
+### Dévelopement en local
+
+clone le repo et utiliser `npm i` afin d'installer les dépendences du projet puis `npm start` afin de le démarrer en local
