@@ -8,10 +8,16 @@
             "content" : {
                 "cards" : [
                     {
+                    "title" : "DEVELOPPEUR",
+                    "companyName" : "SAFRAN",
+                    "location" : "ISSOUDUN",
+                    "date" : "Sep 2024 - Now"
+                },
+                    {
                     "title" : "DEVELOPPEUR JUNIOR FULLSTACK",
                     "companyName" : "MERIM SERVICE",
                     "location" : "CHATEAUROUX",
-                    "date" : "Feb 2022 - Now"
+                    "date" : "Feb 2022 - Sep 2024"
                 },
                 {
                     "title" : "Technicien support N2",
